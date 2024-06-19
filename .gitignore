@@ -1,0 +1,3 @@
+#ignore the DS file
+.DS_Store
+*.png
